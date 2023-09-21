@@ -1,4 +1,5 @@
 ﻿
+using System.Linq;
 using ResemålApp;
 
 internal class Program
@@ -15,7 +16,8 @@ internal class Program
             Console.WriteLine("Välkommen! Välj ett alternativ:");
             Console.WriteLine("1. Lägg till resmål");
             Console.WriteLine("2. Visa alla resmål");
-            Console.WriteLine("3. Ta bort alla resmål");
+            Console.WriteLine("3. Visa totala avståndet");
+            Console.WriteLine("4. Ta bort alla resmål");
             Console.WriteLine("Q. Avsluta programmet");
 
             string userInput = Console.ReadLine();
@@ -52,18 +54,19 @@ internal class Program
                     Console.WriteLine(item);
                 }
             }
+
             else if (userInput == "3")
-            {
+                CalculateTotalDistance(ReseLogg);
+
+            else if (userInput == "4")
                 ReseLogg.Clear();
-            }
+
             else if (userInput == "q")
-            {
                 QuitProgramme();
-            }
+
             else
-            {
                 Error(userInput);
-            }
+
         }
 
 
@@ -77,5 +80,19 @@ internal class Program
         {
             Console.WriteLine($"Ogiltig input, {userInput}");
         }
+
+        static void CalculateTotalDistance(List<Resemål> ReseLogg) =>
+            Console.WriteLine($"Det totala avståndet är: {ReseLogg.Select(resmål => resmål.Avstånd).Sum()} kilometer");
+
+        //float totalDistance = 0;
+
+        //foreach (Resemål resmål in ReseLogg)
+        //{
+        //    totalDistance += resmål.Avstånd;
+        //}
+
+        //Console.WriteLine($"Det totala avståndet är: {totalDistance} kilometer");
+
+
     }
 }
