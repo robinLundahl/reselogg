@@ -1,0 +1,15 @@
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/bin/Debug/net7.0/reselogg
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/bin/Debug/net7.0/reselogg.deps.json
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/bin/Debug/net7.0/reselogg.runtimeconfig.json
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/bin/Debug/net7.0/reselogg.dll
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/bin/Debug/net7.0/reselogg.pdb
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/obj/Debug/net7.0/reselogg.csproj.AssemblyReference.cache
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/obj/Debug/net7.0/reselogg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/obj/Debug/net7.0/reselogg.AssemblyInfoInputs.cache
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/obj/Debug/net7.0/reselogg.AssemblyInfo.cs
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/obj/Debug/net7.0/reselogg.csproj.CoreCompileInputs.cache
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/obj/Debug/net7.0/reselogg.dll
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/obj/Debug/net7.0/refint/reselogg.dll
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/obj/Debug/net7.0/reselogg.pdb
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/obj/Debug/net7.0/reselogg.genruntimeconfig.cache
+/Users/robinlundahl/Desktop/Programmering/SUVNET/OOP1/reselogg-robinLundahl/reselogg/obj/Debug/net7.0/ref/reselogg.dll
